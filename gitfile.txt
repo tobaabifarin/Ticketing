@@ -2,3 +2,6 @@ s sis atest file for cohort 8. The expectation is we would have
 1.  had a refresher from the last class
 2 learn
 3 ask Qs
+4.open repository
+5.nothing o
+
