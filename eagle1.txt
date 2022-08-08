@@ -5,3 +5,4 @@ The flight of the birds will begin shortly
 showing the head changes
 adding a new line of trext from eaglefix
 It is clear skies for eagles to fly
+I am adding the new line from the GUI
